@@ -1,5 +1,31 @@
 # Changelog
 
+## [10.7.4](https://github.com/danny0838/mocha/compare/v10.7.3...v10.7.4) (2024-10-18)
+
+
+### 🩹 Fixes
+
+* remove `:is()` from `mocha.css` to support older browsers ([#5225](https://github.com/danny0838/mocha/issues/5225)) ([#5227](https://github.com/danny0838/mocha/issues/5227)) ([0a24b58](https://github.com/danny0838/mocha/commit/0a24b58477ea8ad146afc798930800b02c08790a))
+* remove bad test link params in HTML reporter ([6e8bcdf](https://github.com/danny0838/mocha/commit/6e8bcdf6399400eb89be694afa0f26286065ff9c))
+
+
+### 📚 Documentation
+
+* add `SECURITY.md` pointing to Tidelift ([#5210](https://github.com/danny0838/mocha/issues/5210)) ([bd7e63a](https://github.com/danny0838/mocha/commit/bd7e63a1f6d98535ce1ed1ecdb57b3e4db8a33c5))
+* adopt Collective Funds Guidelines 0.1 ([#5199](https://github.com/danny0838/mocha/issues/5199)) ([2b03d86](https://github.com/danny0838/mocha/commit/2b03d865eec63d627ff229e07d777f25061260d4))
+* update README, LICENSE and fix outdated ([#5197](https://github.com/danny0838/mocha/issues/5197)) ([1203e0e](https://github.com/danny0838/mocha/commit/1203e0ed739bbbf12166078738357fdb29a8c000))
+
+
+### 🧹 Chores
+
+* fix npm scripts on windows ([#5219](https://github.com/danny0838/mocha/issues/5219)) ([1173da0](https://github.com/danny0838/mocha/commit/1173da0bf614e8d2a826687802ee8cbe8671ccf1))
+* remove trailing whitespace in SECURITY.md ([7563e59](https://github.com/danny0838/mocha/commit/7563e59ae3c78ada305d26eadb86998ab54342da))
+
+
+### 🤖 Automation
+
+* **deps:** bump the github-actions group with 1 update ([708e5f0](https://github.com/danny0838/mocha/commit/708e5f059b641af0c1d9851d4b2767aff9f782d0))
+
 ## [10.7.3](https://github.com/mochajs/mocha/compare/v10.7.2...v10.7.3) (2024-08-09)
 
 
